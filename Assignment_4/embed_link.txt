@@ -1,0 +1,3 @@
+Link of embeddings used
+
+https://www.kaggle.com/thanakomsn/glove6b300dtxt/downloads/glove6b300dtxt.zip/1
